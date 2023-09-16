@@ -1,0 +1,17 @@
+header{
+    display: flex;
+    width: 250px;
+}
+header nav{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    height: 100vh;
+    flex:auto;
+    background-color: #b1575a;
+    a {
+        text-decoration: none;
+        color: white;
+        margin: 1rem;
+    }
+}
